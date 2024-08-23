@@ -1,0 +1,18 @@
+.navbar_head{
+    font-size: x-large;
+    font-weight:bolder;
+    color: rgb(241, 181, 29);
+}
+.navbar_head:hover{
+    text-decoration: none;
+    color: rgb(246, 168, 0);
+}
+.navbar1{
+    background-color:black;
+}
+.nav-link{
+    font-weight:bolder;
+}
+.nav-iteams{
+color: yellow;
+}

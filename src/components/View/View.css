@@ -1,0 +1,45 @@
+.tables {
+   
+    height: auto;
+    padding: 35px;
+    width: auto;
+  
+    border: 1px solid rgba(255, 255, 255, .25);
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.571);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+  
+    backdrop-filter: blur(15px);
+  }
+  .select{
+    background-color: transparent;
+    border-color: black;
+    border-radius    : 25px;
+  }
+  .body2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 30px;
+    margin: 0;
+    font: 1em/1.618 Inter, sans-serif;
+        
+    color: #224;
+    
+  }
+  .cardsHead{
+    
+    backdrop-filter: blur(15px);
+    border-radius: 20px;
+    width: 60rem;
+    border: 1px solid rgba(255, 255, 255, .25);
+    background-color: rgba(255, 255, 255, 0.45);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+  }
+.tabless{
+  
+    background-color: rgba(255, 255, 255, 0.571);
+    width: 1110px;
+    backdrop-filter: blur(15px);
+}
